@@ -140,13 +140,7 @@
                                                         </ul>
                                                     </div>
                                                 </li>
-                                                <li>
-                                                    <div class="form-grp economy">
-                                                        <label for="number">số lượng</label>
-                                                        <input type="number" id="number"
-                                                            name="soluong">
-                                                    </div>
-                                                </li>
+                                                
                                                 <li>
                                                     <div class="form-grp select">
                                                         <button class="btn btn-warning" type="submit">Tìm kiếm <i
