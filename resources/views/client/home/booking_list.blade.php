@@ -178,8 +178,8 @@
                                                         </ul>
                                                     </form>
                                                     <div class="content-bottom">
-                                                        <a href="booking-details.html" class="promo-code">+ Add Promo code</a>
-                                                        <a href="booking-details.html" class="btn">Show Flights <i class="flaticon-flight-1"></i></a>
+                                                        <a href="{{ route('booking-detail') }}" class="promo-code">+ Add Promo code</a>
+                                                        <a href="{{ route('booking-detail') }}" class="btn">Show Flights <i class="flaticon-flight-1"></i></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -254,8 +254,8 @@
                                                         </ul>
                                                     </form>
                                                     <div class="content-bottom">
-                                                        <a href="booking-details.html" class="promo-code">+ Add Promo code</a>
-                                                        <a href="booking-details.html" class="btn">Show Flights <i class="flaticon-flight-1"></i></a>
+                                                        <a href="{{ route('booking-detail') }}" class="promo-code">+ Add Promo code</a>
+                                                        <a href="{{ route('booking-detail') }}" class="btn">Show Flights <i class="flaticon-flight-1"></i></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -330,8 +330,8 @@
                                                         </ul>
                                                     </form>
                                                     <div class="content-bottom">
-                                                        <a href="booking-details.html" class="promo-code">+ Add Promo code</a>
-                                                        <a href="booking-details.html" class="btn">Show Flights <i class="flaticon-flight-1"></i></a>
+                                                        <a href="{{ route('booking-detail') }}" class="promo-code">+ Add Promo code</a>
+                                                        <a href="{{ route('booking-detail') }}" class="btn">Show Flights <i class="flaticon-flight-1"></i></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -406,8 +406,8 @@
                                                         </ul>
                                                     </form>
                                                     <div class="content-bottom">
-                                                        <a href="booking-details.html" class="promo-code">+ Add Promo code</a>
-                                                        <a href="booking-details.html" class="btn">Show Flights <i class="flaticon-flight-1"></i></a>
+                                                        <a href="{{ route('booking-detail') }}" class="promo-code">+ Add Promo code</a>
+                                                        <a href="{{ route('booking-detail') }}" class="btn">Show Flights <i class="flaticon-flight-1"></i></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -544,7 +544,7 @@
                                         </ul>
                                         <div class="flight-price">
                                             <h4 class="title">US$ 1,056.40</h4>
-                                            <a href="booking-details.html" class="btn">Select <i class="flaticon-flight-1"></i></a>
+                                            <a href="{{ route('booking-detail') }}" class="btn">Select <i class="flaticon-flight-1"></i></a>
                                         </div>
                                     </div>
                                     <div class="booking-list-bottom">
@@ -594,7 +594,7 @@
                                         </ul>
                                         <div class="flight-price">
                                             <h4 class="title">US$ 1,099.40</h4>
-                                            <a href="booking-details.html" class="btn">Select <i class="flaticon-flight-1"></i></a>
+                                            <a href="{{ route('booking-detail') }}" class="btn">Select <i class="flaticon-flight-1"></i></a>
                                         </div>
                                     </div>
                                     <div class="booking-list-bottom">
@@ -644,7 +644,7 @@
                                         </ul>
                                         <div class="flight-price">
                                             <h4 class="title">US$ 1,200.00</h4>
-                                            <a href="booking-details.html" class="btn">Select <i class="flaticon-flight-1"></i></a>
+                                            <a href="{{ route('booking-detail') }}" class="btn">Select <i class="flaticon-flight-1"></i></a>
                                         </div>
                                     </div>
                                     <div class="booking-list-bottom">
@@ -694,7 +694,7 @@
                                         </ul>
                                         <div class="flight-price">
                                             <h4 class="title">US$ 1,056.40</h4>
-                                            <a href="booking-details.html" class="btn">Select <i class="flaticon-flight-1"></i></a>
+                                            <a href="{{ route('booking-detail') }}" class="btn">Select <i class="flaticon-flight-1"></i></a>
                                         </div>
                                     </div>
                                     <div class="booking-list-bottom">
@@ -744,7 +744,7 @@
                                         </ul>
                                         <div class="flight-price">
                                             <h4 class="title">US$ 1,056.40</h4>
-                                            <a href="booking-details.html" class="btn">Select <i class="flaticon-flight-1"></i></a>
+                                            <a href="{{ route('booking-detail') }}" class="btn">Select <i class="flaticon-flight-1"></i></a>
                                         </div>
                                     </div>
                                     <div class="booking-list-bottom">
@@ -794,7 +794,7 @@
                                         </ul>
                                         <div class="flight-price">
                                             <h4 class="title">US$ 1,056.40</h4>
-                                            <a href="booking-details.html" class="btn">Select <i class="flaticon-flight-1"></i></a>
+                                            <a href="{{ route('booking-detail') }}" class="btn">Select <i class="flaticon-flight-1"></i></a>
                                         </div>
                                     </div>
                                     <div class="booking-list-bottom">
@@ -844,7 +844,7 @@
                                         </ul>
                                         <div class="flight-price">
                                             <h4 class="title">US$ 1,056.40</h4>
-                                            <a href="booking-details.html" class="btn">Select <i class="flaticon-flight-1"></i></a>
+                                            <a href="{{ route('booking-detail') }}" class="btn">Select <i class="flaticon-flight-1"></i></a>
                                         </div>
                                     </div>
                                     <div class="booking-list-bottom">

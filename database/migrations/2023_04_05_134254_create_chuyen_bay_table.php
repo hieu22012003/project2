@@ -16,6 +16,8 @@ return new class extends Migration
         Schema::create('chuyen_bay', function (Blueprint $table) {
             $table->id();
             $table->string('ma_cb');
+            $table->string("noi_di_cb");
+            $table->string("noi_den_cb");
             $table->date('ngay_di')->nullable();
             $table->integer('sb_id');
             $table->dateTime('gio_di');

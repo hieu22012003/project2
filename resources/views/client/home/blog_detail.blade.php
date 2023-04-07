@@ -101,7 +101,7 @@
                                     <p>Comfortale travel experience with the Top class Airlines mobile apps You can complete all travel processes such as purchasing a ticket the creating a mobile boarding pass, or checking in via a single channel. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
                                     <blockquote>
                                         <p>“ Comfortale travel experience with the Top class Airlines mobile apps You can complete all travel processes such as purchasing registered user profile through the mobile ”</p>
-                                        <cite>Tomas Alexander</cite>
+                                        <cite>Nguyễn Trung Hiếu</cite>
                                     </blockquote>
                                     <p>Enjoy an even safer and more comfortale travel experience with the Top class Airlines mobile apps You can complete all travel processes such as purchasing a ticket the creating a mobile boarding pass, or checking in via a single channel. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
                                     <div class="blog-details-img">
@@ -137,14 +137,14 @@
                             </div>
                             <div class="avatar-post">
                                 <div class="avatar-post-img">
-                                    <img src="assets/img/blog/post-avatar-img.png" alt="img">
+                                    <img src="https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/314721300_2496559577162978_547175050630653533_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=174925&_nc_ohc=2P6BQV8pU50AX_7CPYj&_nc_ht=scontent.fhan17-1.fna&oh=00_AfBVa0Pp-xeDUiRhp2c2JE754WXKxDeNU9QfmqvTfPMqHQ&oe=6434DA5B" alt="img">
                                 </div>
                                 <div class="avatar-post-content">
-                                    <h4 class="title">Tomas Alexander</h4>
-                                    <p>Dnjoy an even safer and more comfortale travel experience with the Top class Airlines mobile apps You can complete</p>
+                                    <h4 class="title">Nguyễn Trung Hiếu</h4>
+                                    <p>Trưởng Nhóm</p>
                                     <div class="blog-details-social">
                                         <ul>
-                                            <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                            <li><a href="https://www.facebook.com/youngspidey2301/"><i class="fa-brands fa-facebook-f"></i></a></li>
                                             <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
                                             <li><a href="#"><i class="fa-brands fa-pinterest-p"></i></a></li>
                                         </ul>
